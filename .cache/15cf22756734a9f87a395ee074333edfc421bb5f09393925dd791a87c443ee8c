@@ -1,0 +1,16 @@
+(function(__moduleName){System.register(['react'], function (_export) {
+  'use strict';
+
+  var React;
+  return {
+    setters: [function (_react) {
+      React = _react['default'];
+    }],
+    execute: function () {
+      console.log('main.js');
+    }
+  };
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9tYWluLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBLGFBQU8sQ0FBQyxHQUFHLENBQUMsU0FBUyxDQUFDLENBQUMiLCJmaWxlIjoiL21haW4uanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zb2xlLmxvZygnbWFpbi5qcycpO1xuaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcbiJdfQ==
+})("undefined");
+//# sourceURL=/main.js!transpiled
